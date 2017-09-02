@@ -1,0 +1,17 @@
+{
+  "name": "tapable-patch",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/leozdgao/tapable-patch.git",
+  "author": "leozdgao <gzdleo0816@outlook.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "tapable": "^0.2.8"
+  },
+  "devDependencies": {
+    "tapable": "^0.2.8"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
