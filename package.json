@@ -1,6 +1,6 @@
 {
   "name": "tapable-patch",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "lib/index.js",
   "repository": "https://github.com/leozdgao/tapable-patch.git",
   "author": "leozdgao <gzdleo0816@outlook.com>",
@@ -12,6 +12,7 @@
     "tapable": "^0.2.8"
   },
   "dependencies": {
-    "chalk": "^2.1.0"
+    "chalk": "^2.1.0",
+    "debug": "^3.0.1"
   }
 }
